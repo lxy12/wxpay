@@ -1,13 +1,13 @@
 {
   "type": "library",
-  "name": "zoujingli/wechat-developer",
+  "name": "sunny/wechat-developer",
   "homepage": "https://thinkadmin.top",
   "description": "WeChat platform and Payment development tools",
   "license": "MIT",
   "authors": [
     {
-      "name": "Anyon",
-      "email": "zoujingli@qq.com",
+      "name": "Sunny",
+      "email": "sunny@qq.com",
       "homepage": "https://thinkadmin.top"
     }
   ],
